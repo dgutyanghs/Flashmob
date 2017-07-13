@@ -1,0 +1,11 @@
+
+* Flashmob
+RxSwift program practice
+
+** Project function
+*** Download video from webserver
+*** Play video
+** Developer  environment  
+*** Swift 3  && Xcode 8.3.2
+** Document
+*** [[https://dgutyanghs.github.io/2017/07/RxSwift%25E5%25AE%259E%25E8%25B7%25B5/][ Pls visit my blog]] 
